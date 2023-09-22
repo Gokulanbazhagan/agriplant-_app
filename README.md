@@ -1,3 +1,2 @@
 # agriplant
 
-Agriculture plant app
